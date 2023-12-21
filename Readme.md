@@ -1,8 +1,6 @@
-# GPTs List
+# Awesome GPTs Directory List - GPTs Stores
 
 Build by https://gpts-stores.com/
-<a href="[链接地址](https://gpts-stores.com/)" target="_blank">Gpts-Stores.com</a>
-[GitHub](https://github.com){:target="_blank"}
 
 
 | Logo                                                                                                         | Title                             | URL                                                          | Description                                                                                                       |
