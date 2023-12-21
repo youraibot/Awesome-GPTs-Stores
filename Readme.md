@@ -1,3 +1,6 @@
+# GPTs List
+
+
 | Logo                                                                                                         | Title                             | URL                                                          | Description                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | ![Logo](https://files.oaiusercontent.com/file-IQxBqpaTqox6nCS1VMILQjRX?se=2123-10-23T11%3A09%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D20231116-100128.jpg&sig=Y1%2BZu5/6x1RF929lXuVHu0RcsPjlJS9JyUoX52aOz%2BM%3D) | Mind Map Generator                | [Link](https://chat.openai.com/g/g-XpOL64iRH-mind-map-generator) | A GPT that helps users create structured mind maps from their ideas.                                             |
