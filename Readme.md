@@ -5,7 +5,8 @@ Build by https://gpts-stores.com/
 ## Multi Language:
 ### English https://gpts-stores.com/en/
 ### 中文版 https://gpts-stores.com/zh/
-
+### 中文版Github列表 https://github.com/youraibot/GPTs-List
+### AI Toolkit https://github.com/youraibot/AI-Toolkit
 ## Productivity
 | Logo                                                                                                         | Title                             | URL                                                          | Description                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
