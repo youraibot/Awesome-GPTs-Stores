@@ -1,6 +1,8 @@
 # Awesome GPTs Directory List - GPTs Stores
 
 Build by https://gpts-stores.com/
+
+# Multi Language:
 ## English https://gpts-stores.com/en/
 ## 中文版 https://gpts-stores.com/zh/
 
